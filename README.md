@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hammytaro
+- 👋 Hi, I’m @Hammytaro, my name is Sean A. 
 - 👀 I’m interested in making video games in a group setting 
 - 🌱 I’m currently learning c++, c#, and pixel art.
 - 💞️ I’m looking to collaborate on groups projects. I'm currently working on two projects with two separte groups of people. 
